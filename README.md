@@ -7,12 +7,19 @@ This repository contains my practice codes for BHCC classes, including short pro
 
 ## Table of Contents
 - [Practices](#practices)
+- [Functions](#functions)
 - [Notes](#notes)
+
 
 ---
 
 ## Practices
 - [celsius_to_fahrenheit.cpp](celsius_to_fahrenheit.cpp) → Convert Celsius to Fahrenheit.
+
+---
+
+## Functions
+-
 
 ---
 
