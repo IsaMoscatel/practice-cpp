@@ -20,6 +20,8 @@ This repository contains my practice codes for BHCC classes, including short pro
 
 ## Functions
 - [capitalize_first.cpp](capitalize_first.cpp) → Function to capitalize the first letter of a string.
+- [is_valid_month.cpp](is_valid_month.cpp) → Checks if a string matches a valid month name.
+
 
 ---
 
