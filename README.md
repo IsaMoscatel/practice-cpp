@@ -19,7 +19,7 @@ This repository contains my practice codes for BHCC classes, including short pro
 ---
 
 ## Functions
--
+- [capitalize_first.cpp](capitalize_first.cpp) → Function to capitalize the first letter of a string.
 
 ---
 
