@@ -15,6 +15,7 @@ This repository contains my practice codes for BHCC classes, including short pro
 
 ## Practices
 - [celsius_to_fahrenheit.cpp](celsius_to_fahrenheit.cpp) → Convert Celsius to Fahrenheit.
+- [monthlySalesTax.cpp](monthlySalesTax.cpp) → Displays Monthly Sales Tax Report.
 
 ---
 
