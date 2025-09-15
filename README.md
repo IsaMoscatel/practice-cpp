@@ -6,10 +6,6 @@ It includes short problem-solving programs, weekly assignments, and reusable cod
 
 ## Practices
 - **celsius_to_fahrenheit.cpp** → Convert Celsius to Fahrenheit.
-- **odd_or_even.cpp** → Check if a number is odd or even.
-- **grade_calculator.cpp** → Simple grading program using conditionals.
-- **multiplication_table.cpp** → Print a multiplication table for a number.
-- **factorial.cpp** → Calculate factorial using a loop.
 
 ## Notes
 - Each file is a self-contained program.
